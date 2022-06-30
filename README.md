@@ -1,5 +1,7 @@
 ![My card name](https://cardivo.vercel.app/api?name=HARDIANTO&description=A%20Passionate%20Code%20Writer%20❤&image=https://avatars.githubusercontent.com/u/99262645?v=4&backgroundColor=%23ecf0f1&instagram=hardihardi&linkedin=Hardi%20Hardi&github=hardihardi&pattern=leaf&colorPattern=%23eaeaea)
 
+<img aligh="center" alt="Coding" width="1080" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg" >
+
 ## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-106eea?style=flat&logo=javascript)&nbsp;
