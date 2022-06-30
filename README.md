@@ -1,6 +1,9 @@
-![My card name](https://cardivo.vercel.app/api?name=HARDIANTO&description=A%20Passionate%20Code%20Writer%20❤&image=https://avatars.githubusercontent.com/u/99262645?v=4&backgroundColor=%23ecf0f1&instagram=hardihardi&linkedin=Hardi%20Hardi&github=hardihardi&pattern=leaf&colorPattern=%23eaeaea)
+<h1 align="center">Hi👋 I'm Hardianto</h1>
 
-<img aligh="center" alt="Coding" width="1080" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg" >
+<p align="center">A passionate Web Developer from Indonesia.</p>
+
+<img aligh="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
+
 
 ## My GitHub Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Hardihardi&show_icons=true&include_all_commits=true&hide_border=true&bg_color=fff&icon_color=106eea&title_color=106eea&text_color=000&custom_title=My+Github+Stats)
