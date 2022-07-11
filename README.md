@@ -1,5 +1,5 @@
 <h1>Hi👋 I'm Hardianto</h1>
-<p>A passionate Frontend Engineer from Indonesia. Interested in user interface design, street photography enthusiast and love to create something simple.</p>
+<p>A passionate Web Developer from Indonesia. Interested in user interface design, street photography enthusiast and love to create something simple.</p>
 
 [![Website](https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=vercel&logoColor=black)](//www.hardianto.skom.id)
 [![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ind.hrdianto12a@gmail.com)
