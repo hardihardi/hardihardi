@@ -15,6 +15,12 @@
 <span>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="32px" title="Postman" />
 </span>
+<span>
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="postman" height="32px" title="Postman" />
+</span>
+<span>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="postman" height="32px" title="Figma" />
+</span>
 
 
 ## Here is my tech stack
