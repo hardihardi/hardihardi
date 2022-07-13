@@ -20,12 +20,17 @@
 
 
 ## Here is my tech stack
+![PHP](https://img.shields.io/badge/php-ffffff?style=for-the-badge&logo=php&logoColor=black)
+![Javascript](https://img.shields.io/badge/javascript-ffffff?style=for-the-badge&logo=javascript&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=for-the-badge&logo=laravel&logoColor=black)
 ![codeigniter](https://img.shields.io/badge/codeigniter-ffffff?style=for-the-badge&logo=codeigniter&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-ffffff?style=for-the-badge&logo=bootstrap&logoColor=black)
 ![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=black)
 ![vue](https://img.shields.io/badge/vue-ffffff?style=for-the-badge&logo=vue.js&logoColor=black)
-![Tailwind](https://img.shields.io/badge/ailwind-ffffff?style=for-the-badge&logo=tailwind&logoColor=black)
+![Nuxt](https://img.shields.io/badge/nuxt-ffffff?style=for-the-badge&logo=nuxt.js&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-ffffff?style=for-the-badge&logo=vite&logoColor=black)
+![Mysql](https://img.shields.io/badge/msql-ffffff?style=for-the-badge&logo=mysql&logoColor=black)
+![Mongo DB](https://img.shields.io/badge/mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=black)
 
 
 ## My GitHub Stats
