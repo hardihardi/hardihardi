@@ -20,7 +20,12 @@
 
 
 ## Here is my tech stack
-
+![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=for-the-badge&logo=laravel&logoColor=black)
+![codeigniter](https://img.shields.io/badge/codeigniter-ffffff?style=for-the-badge&logo=codeigniter&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-ffffff?style=for-the-badge&logo=bootstrap&logoColor=black)
+![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=black)
+![vue](https://img.shields.io/badge/vue-ffffff?style=for-the-badge&logo=vue.js&logoColor=black)
+![Tailwind](https://img.shields.io/badge/ailwind-ffffff?style=for-the-badge&logo=tailwind&logoColor=black)
 
 
 ## My GitHub Stats
