@@ -9,8 +9,8 @@
 
 ## Tools
 <span>
-<img src="https://user-images.githubusercontent.com/79355239/143455396-08754238-ba05-4388-b372-785bafd7aafd.png" height="32px" title="Visual Studio Code" />
-</span>&nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" height="32px" title="Git" />
+</span>&nbsp;&nbsp;
 <span>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="32px" title="Git" />
 </span>&nbsp;&nbsp;
