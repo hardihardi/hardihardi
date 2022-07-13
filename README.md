@@ -33,7 +33,7 @@
 ![vue](https://img.shields.io/badge/vue-ffffff?style=for-the-badge&logo=vue.js&logoColor=black)
 ![Nuxt](https://img.shields.io/badge/nuxt-ffffff?style=for-the-badge&logo=nuxt.js&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-ffffff?style=for-the-badge&logo=vite&logoColor=black)
-![Mysql](https://img.shields.io/badge/msql-ffffff?style=for-the-badge&logo=mysql&logoColor=black)
+![Mysql](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=mysql&logoColor=black)
 ![Mongo DB](https://img.shields.io/badge/mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=black)
 
 
