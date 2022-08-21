@@ -28,11 +28,14 @@
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-10202C?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-10202C?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-10202C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jquery](https://img.shields.io/badge/Jquery-10202C?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React.js-10202C?style=for-the-badge&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-10202C?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-10202C?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-10202C?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Javascript](https://img.shields.io/badge/JavaScript-10202C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-10202C?style=for-the-badge&logo=java&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wodrpress-10202C?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ## My GitHub Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Hardihardi&show_icons=true&include_all_commits=true&hide_border=true&bg_color=fff&icon_color=106eea&title_color=106eea&text_color=000&custom_title=My+Github+Stats)
