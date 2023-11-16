@@ -36,9 +36,3 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-10202C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-10202C?style=for-the-badge&logo=java&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wodrpress-10202C?style=for-the-badge&logo=wordpress&logoColor=white)
-
-## My GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Hardihardi&show_icons=true&include_all_commits=true&hide_border=true&bg_color=fff&icon_color=106eea&title_color=106eea&text_color=000&custom_title=My+Github+Stats)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardihardi&show_icons=true&locale=en&layout=compact" alt="hardihardi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardihardi&" alt="hardihardi" /></p>
-<ul style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
