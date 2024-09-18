@@ -3,7 +3,7 @@
 
 - 📖 Currently deep learning about NodeJS & Typescript
 - 📫 How to reach me: hrdianto12@gmail.com
-- 👨‍💻 All of my projects are available at [hardianto.me](hardianto.me)
+- 👨‍💻 All of my projects are available at [hardianto.site](www.hardianto.site)
 
 ## Tools
 <span>
