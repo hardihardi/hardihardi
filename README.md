@@ -1,3 +1,5 @@
+![👋 Hi, my name is Hardianto](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+
 <h1>Hi👋 I'm Hardianto</h1>
 <p>A passionate Web Developer from Indonesia. Interested in user interface design, street photography enthusiast and love to create something simple.</p>
 
