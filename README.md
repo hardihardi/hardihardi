@@ -3,7 +3,7 @@
 <h1>Hi👋 I'm Hardianto</h1>
 <p>A passionate Web Developer from Indonesia. Interested in user interface design, street photography enthusiast and love to create something simple.</p>
 
-- 📖 Currently deep learning about NodeJS & Typescript
+- 📖 Currently deep learning about MERN Developer
 - 📫 How to reach me: hrdianto12@gmail.com
 - 👨‍💻 All of my projects are available at [hardianto.site](www.hardianto.site)
 
