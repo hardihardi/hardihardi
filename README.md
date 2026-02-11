@@ -51,10 +51,9 @@ I specialize in end-to-end product development, from system architecture and API
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hardihardi&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardihardi&layout=compact&theme=tokyonight" height="170"/>
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=radical)
 
 ---
 
