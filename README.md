@@ -1,87 +1,83 @@
-# 👋 Hi, I'm Hardianto  
-**Software Engineer | Full Stack Engineer**
+![👋 Hi, my name is Hardianto](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
-![Profile GIF](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+<h1>Hi 👋, I'm Hardianto</h1>
+<h3>Software Engineer | Full Stack Engineer</h3>
 
----
-
-## 👨‍💻 About Me
-
-I am a results-driven **Software Engineer** with hands-on experience in designing, developing, and deploying scalable web applications. I work across the full software development lifecycle, from system design and backend architecture to modern frontend implementation and cloud deployment.
-
-I focus on **clean architecture, performance optimization, and maintainable code**, while continuously learning emerging technologies to stay relevant in fast-evolving engineering ecosystems.
+<p>
+A results-driven Software Engineer with strong experience in designing, developing, and maintaining scalable web applications. 
+I specialize in end-to-end product development, from system architecture and APIs to responsive user interfaces, with a strong focus on performance, maintainability, and clean code.
+</p>
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🚀 Tech Stack & Expertise
 
-### Backend
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white)
+### 💻 Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java%20Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
-
-### API & Architecture
-![REST API](https://img.shields.io/badge/RESTful_APIs-02569B?logo=swagger&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-## 🧠 Currently Learning
-
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-
-- Rust for system-level and high-performance backend development  
-- Scalable distributed systems  
-- Cloud-native and future-oriented architectures  
-- Emerging technologies in backend and infrastructure engineering  
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
-## 📌 What I Bring to a Team
+### 🔗 APIs & Data
+![REST](https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 
-- Strong problem-solving and analytical thinking  
-- Experience building production-ready backend systems  
-- Ability to work across frontend, backend, and cloud layers  
-- Clean code mindset with attention to scalability and security  
-- Continuous learner with future-focused technology curiosity  
-
----
-
-## 🌍 Portfolio & Projects
-
-👨‍💻 **All projects:**  
-👉 https://www.hardianto.site
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ---
 
-## 📫 Contact Me
-
-📧 Email: **hrdianto12@gmail.com**
-
----
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hardihardi77_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardihardi)
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud)
 
 ---
 
-⭐ *Open to collaboration, challenging engineering problems, and impactful software projects.*
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hardihardi&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardihardi&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+- Rust for system-level and high-performance applications
+- Cloud-native architecture and distributed systems
+- Future technologies including AI-driven backends and scalable microservices
+
+---
+
+## 📌 Highlights
+- Strong experience in full lifecycle software development.
+- Comfortable working with monolithic and microservices architectures.
+- Focused on clean architecture, performance optimization, and scalability.
+- Actively building and maintaining real-world projects.
+
+---
+
+## 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hardihardi77_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardihardi)
+
+---
+
+📫 **Email**: hrdianto12@gmail.com  
+👨‍💻 **Portfolio**: https://hardianto.site
