@@ -1,7 +1,7 @@
 ![👋 Hi, my name is Hardianto](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
 <h1>Hi 👋, I'm Hardianto</h1>
-<h3>Software Engineer | Full Stack Engineer</h3>
+<h3>Full Stack Engineer</h3>
 
 <p>
 A results-driven Software Engineer with strong experience in designing, developing, and maintaining scalable web applications. 
